@@ -21,6 +21,9 @@
 </details>
 <details> <!-- Tools and info used to create our mods -->
   <summary>Tools and info used to create our mods</summary>
+  <ul>
+    <li><a href="https://www.youtube.com/watch?v=8wSfX3cKN44">Elden Ring Mods on Steam Deck (Tutorial)o</a></li>
+  </ul>
 </details>
 <details> <!-- Steamdeck/Linux Support -->
   <summary>Steamdeck/Linux Support</summary>
