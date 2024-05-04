@@ -4,7 +4,7 @@
   <summary>How to use</summary>
   <ul>
     <li>Download this repo and add the files to "[...]\Steam\steamapps\common\ELDEN RING\Game"</li>
-    <li>That's it?</li>
+    <li>On Windows: start "[...]\ELDEN RING\Game\ModEngine-2.1.0.0-win64\launchmod_eldenring.bat"</li>
   </ul>
 </details>
 <details> <!-- 3rd party mods included in our bundle -->
