@@ -17,6 +17,7 @@ eldenring.exe
 eossdk-win64-shipping.dll
 eossdk-win64-shipping.so
 regulation.bin
+!mod/regulation.bin
 !ModEngine-2.1.0.0-win64/mod/regulation.bin
 start_protected_game.exe
 steam_api64.dll
