@@ -19,3 +19,6 @@ eossdk-win64-shipping.so
 regulation.bin
 start_protected_game.exe
 steam_api64.dll
+/crashdumps
+mod_loader_log.txt
+ModEngine-2.1.0.0-win64/modengine2/logs/modengine_2024-05-04.log
