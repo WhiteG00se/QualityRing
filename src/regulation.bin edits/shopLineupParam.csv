@@ -1,0 +1,7 @@
+ID,Name,equipId,value,mtrlId,eventFlag_forStock,eventFlag_forRelease,sellQuantity,pad3,equipType,costType,pad1,setNum,value_Add,value_Magnification,iconId,nameMsgId,menuTitleMsgId,menuIconId,pad2,
+101882,[Twin Maiden Husks] Ancient Dragon Smithing Stone,10140,5000,-1,60280,0,-1,0,3,0,0,1,0,1,-1,-1,-1,-1,[0|0]
+101883,[Twin Maiden Husks] Somber Ancient Dragon Smithing Stone,10168,30000,-1,60280,0,-1,0,3,0,0,1,0,1,-1,-1,-1,-1,[0|0]
+101884,[Twin Maiden Husks] Larval Tear,8185,100,-1,60280,0,-1,0,3,0,0,1,0,1,-1,-1,-1,-1,[0|0]
+101885,[Twin Maiden Husks] Silver-Pickled Fowl Foot,1190,300,-1,60280,0,-1,0,3,0,0,1,0,1,-1,-1,-1,-1,[0|0]
+101886,[Twin Maiden Husks] Great Grave Glovewort,10909,10000,-1,60280,0,-1,0,3,0,0,1,0,1,-1,-1,-1,-1,[0|0]
+101887,[Twin Maiden Husks] Great Ghost Glovewort,10919,15000,-1,60280,0,-1,0,3,0,0,1,0,1,-1,-1,-1,-1,[0|0]
