@@ -7,11 +7,9 @@
       <table>
         <tr>
           <th>Windows</th>
-          <th></th>
         </tr>
         <tr>
-          <td>always start the game with the .bat</td>
-          <td>[...]\ELDEN RING\Game\ModEngine-2.1.0.0-win64\launchmod_eldenring.bat</td>
+          <td>always start the game with "[...]\ELDEN RING\Game\ModEngine-2.1.0.0-win64\launchmod_eldenring.bat"</td>
         </tr>
       </table>
     </li>
@@ -22,12 +20,8 @@
           <th></th>
         </tr>
         <tr>
-          <td>set launch options to</td>
+          <td>set launch options, then start via steam</td>
           <td>echo "%command%" | sed 's/start_protected_game/eldenring/' | WINEDLLOVERRIDES="dinput8.dll=n,b" sh</td>
-        </tr>
-        <tr>
-          <th>start the game via steam</th>
-          <th></th>
         </tr>
       </table>
     </li>
