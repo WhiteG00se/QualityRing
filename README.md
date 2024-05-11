@@ -1,6 +1,6 @@
 <html>
-<details> <!-- How to use -->
-  <summary>How to use</summary>
+<details>
+  <summary>How to install</summary>
   <ul>
     <li>Download this repo and add the files to "[...]\Steam\steamapps\common\ELDEN RING\Game"</li>
     <li>
@@ -27,7 +27,7 @@
     </li>
   </ul>
 </details>
-<details> <!-- 3rd party mods included in our bundle -->
+<details>
   <summary>3rd party mods included in my bundle</summary>
   <ul>
     <li><a href="https://www.nexusmods.com/eldenring/mods/117">Elden Mod Loader</a></li>
@@ -39,7 +39,7 @@
     <li><a href="https://www.nexusmods.com/eldenring/mods/3091">Map for Goblins</a></li>
   </ul>
 </details>
-<details> <!-- Tools and info used-->
+<details>
   <summary>Tools and info used</summary>
   <ul>
     <li>.dll files go into "[...]\ELDEN RING\Game\mods" </li>
