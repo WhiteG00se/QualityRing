@@ -51,3 +51,5 @@
     <li><a href="https://github.com/soulsmods/DSMapStudio">DSMapStudio</a></li>
   </ul>
 </details>
+
+</html>
