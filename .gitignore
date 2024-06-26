@@ -29,3 +29,6 @@ mods/UltrawideFix/log.txt
 mods/UnlockTheFps/log.txt
 mods/logs/modengine_2024-05-05.log
 ModEngine-2.1.0.0-win64/modengine2/logs/modengine_2024-05-05.log
+
+*.cache
+*.cache.write
