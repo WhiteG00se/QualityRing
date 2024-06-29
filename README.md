@@ -47,7 +47,7 @@
     <li><a href="https://www.youtube.com/watch?v=8wSfX3cKN44">Elden Ring Mods on Steam Deck (Tutorial)</a></li>
     <li>My own changes are in the \src\ folder</li>
     <li><a href="https://github.com/Nordgaren/UXM-Selective-Unpack">UXM-Selective-Unpack</a></li>
-    <li><a href="https://github.com/soulsmods/DSMapStudio">DSMapStudio</a></li>
+    <li><a href="https://github.com/soulsmods/DSMapStudio">DSMapStudio</a> and <a href="https://github.com/vawser/Smithbox">Smithbox</a></li>
   </ul>
 </details>
 
