@@ -33,7 +33,6 @@
     <li><a href="https://www.nexusmods.com/eldenring/mods/117">Elden Mod Loader</a></li>
     <li><a href="https://github.com/soulsmods/ModEngine2/releases">ModEngine2 for Windows</a></li>
     <li><a href="https://github.com/Cloudef/ModEngine2/releases">ModEngine2 for Proton</a></li>
-    <li><a href="https://www.nexusmods.com/eldenring/mods/501">Faster Respawn</a></li>
     <li><a href="https://www.nexusmods.com/eldenring/mods/175">Remove black bars</a></li>
     <li><a href="https://www.nexusmods.com/eldenring/mods/216">Unlock the framerate</a></li>
     <li><a href="https://www.nexusmods.com/eldenring/mods/3091">Map for Goblins</a></li>
