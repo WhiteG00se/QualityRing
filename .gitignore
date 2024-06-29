@@ -1,8 +1,9 @@
 
 /EasyAntiCheat
 /movie
-oo2core_6_win64.dll
 /sd
+/crashdumps
+oo2core_6_win64.dll
 amd_ags_x64.dll
 bink2w64.dll
 Data0.bdt
@@ -16,19 +17,14 @@ Data3.bhd
 eldenring.exe
 eossdk-win64-shipping.dll
 eossdk-win64-shipping.so
+start_protected_game.exe
+steam_api64.dll
+
 regulation.bin
 !mod/regulation.bin
 !ModEngine-2.1.0.0-win64/mod/regulation.bin
-start_protected_game.exe
-steam_api64.dll
-/crashdumps
-mod_loader_log.txt
-ModEngine-2.1.0.0-win64/modengine2/logs/modengine_2024-05-04.log
-mods/FasterRespawn/log.txt
-mods/UltrawideFix/log.txt
-mods/UnlockTheFps/log.txt
-mods/logs/modengine_2024-05-05.log
-ModEngine-2.1.0.0-win64/modengine2/logs/modengine_2024-05-05.log
 
+*log
+*log.txt
 *.cache
 *.cache.write
