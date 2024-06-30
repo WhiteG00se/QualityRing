@@ -1,0 +1,245 @@
+Map Customization
+
+The map displays everything by default. Use DSMapStudio to open the params and delete the undesired rows in WorldMapPointParam to make them not appear in the map.
+Use the list below to find the row ID each item category starts in the params.
+In-game map text listing an item or other things from Graces, Bosses, etc. is tied to the Grace, Boss, etc. rows, not the items rows.
+Loot with more than one item in the same pick up is sorted only by the first item listed (the same one item displayed on its icon map).
+Vanilla params start from ID 78500 onwards, --you should never touch those--.
+
+Examples:
+	- If you wanted to display only Stonesword Keys on the map you would need to remove all rows except the ones ranging from ID 4300 to the start of the next undesired IDs, 4450.
+	- If you wanted to display only all the upgrade materials you would need to remove all rows except the ones ranging from ID 5000 to the start of the next undesired IDs, 10000.
+The 02_120_worldmap.gfx file is always required regardless of what you change but you don't need to edit it, leave that file as it is.
+And again, no matter what you want to display, --never remove the vanilla rows, don't touch those or things will break--.
+
+
+WorldMapPointParam row IDs:
+
+- Graces to Unlock
+	- 2
+
+- Bosses Left to Defeat (and their drops)
+	- 500
+
+- Unique Drops (enemies with one time guaranteed drops and what do they drop)
+	- 800
+
+- Hostile NPCs (and their drops)
+	- 1200
+
+- Imp Statues (and their key amount requirements)
+	- 1400
+
+- Teardrop Scarabs (and their drops)
+	- 1500
+
+- Loot (Chests and Shinies)
+	- Key and Unique Items
+		- Maps
+			- 1800
+		- Imbued Sword Keys
+			- 1900
+		- Deathroot
+			- 2000
+		- Seedbed Curse
+			- 2100
+		- Whetblades
+			- 2200
+		- Bell Bearings
+			- 2300
+		- Sorcery Scrolls
+			- 2400
+		- Incantation Prayerbooks
+			- 2500
+		- Nomadic Warrior's Cookbooks
+			- 2600
+		- Armorer's Cookbooks
+			- 2700
+		- Ancient Dragon Apostle's Cookbooks
+			- 2800
+		- Missionary's Cookbooks
+			- 2900
+		- Glintstone Craftman's Cookbooks
+			- 3100
+		- Perfumer's Cookbooks
+			- 3200
+		- Fevor's Cookbooks
+			- 3300
+		- Frenzied's Cookbooks
+			- 3400
+		- Memory Stones
+			- 3500
+		- Flask / Crystal Tears
+			- 3600
+		- Cracked Pots
+			- 3700
+		- Ritual Pots
+			- 3800
+		- Perfume Bottles
+			- 3900
+		- Lost Ashes of War
+			- 4000
+		- Larval Tears
+			- 4100
+		- Celestial Dews
+			- 4200
+		- Stonesword Keys
+			- 4300
+		- Great Runes
+			- 4450
+		- Paintings
+			- 4500
+		- Gestures
+			- 4600
+		- Other Key and Special Items (in no specific order)
+			- 4700
+
+- Upgrade Materials (in no specific order in each category)
+	- Golden Seeds
+		- 5000
+	- Sacred Tears
+		- 5100
+	- Smithing Stones
+		- Ancient
+			- 5200
+		- [8]
+			- 5300
+		- [7]
+			- 5500
+		- [6]
+			- 5700
+		- [5]
+			- 5900
+		- [4]
+			- 6100
+		- [3]
+			- 6300
+		- [2]
+			- 6500
+		- [1]
+			- 6700
+	- Somber Stones
+		- Ancient
+			- 6900
+		- [9]
+			- 7100
+		- [8]
+			- 7300
+		- [7]
+			- 7500
+		- [6]
+			- 7700
+		- [5]
+			- 7900
+		- [4]
+			- 8100
+		- [3]
+			- 8300
+		- [2]
+			- 8500
+		- [1]
+			- 8700
+	- Grave Gloveworts
+		- 8900
+	- Ghost Gloveworts
+		- 9100
+
+- Armaments (weapons, shields, spell tools, in no specific order)
+	- 10000
+
+- Armors
+	- 11000
+
+- Talismans
+	- 12000
+
+- Spirit Ashes
+	- 13000
+
+- Ashes of War
+	- 14000
+
+- Sorceries 
+	- 15000
+
+- Incantations
+	- 16000
+
+- Consumables
+	- Rune Arcs
+		- 17000
+	- Starlight Shards
+		- 17200
+	- Runes
+		- Lord's Runes
+			- 17400
+		- Hero's Runes [5]
+			- 17600
+		- Hero's Runes [4]
+			- 17800
+		- Hero's Runes [3]
+			- 18000
+		- Hero's Runes [2]
+			- 18200
+		- Hero's Runes [1]
+			- 18400
+		- Numen's Runes
+			- 18600
+		- Golden Runes [13]
+			- 18800
+		- Golden Runes [12]
+			- 19000
+		- Golden Runes [11]
+			- 19200
+		- Golden Runes [10]
+			- 19400
+		- Golden Runes [9]
+			- 19600
+		- Golden Runes [8]
+			- 19800
+		- Golden Runes [7]
+			- 20000
+		- Golden Runes [6]
+			- 20200
+		- Golden Runes [5]
+			- 20400
+		- Golden Runes [4]
+			- 20600
+		- Golden Runes [3]
+			- 20800
+		- Golden Runes [2]
+			- 21000
+		- Golden Runes [1]
+			- 21200
+	- Throwables
+		- 21400
+	- Greases
+		- 21800
+	- Other Consumable Buffs
+		- 22200
+	- Boluses and Soap
+		- 22600
+	- Other Consumables
+		- 23000
+
+- Ammunition
+	- Arrows
+		- 23400
+	- Great Arrows
+		- 23600
+	- Bolts
+		- 23800
+	- Greatbolts
+		- 24000
+
+- Materials (in no specific order)
+	- 24200
+
+- Multiplayer Items
+	- 25000
+
+- Locations
+	- 25500
+
+- Vanilla Params (you should never touch these)
+	- 78500
