@@ -19,6 +19,9 @@ eossdk-win64-shipping.dll
 eossdk-win64-shipping.so
 start_protected_game.exe
 steam_api64.dll
+steam_appid.txt
+DLC.bdt
+DLC.bhd
 
 regulation.bin
 !mod/regulation.bin
@@ -48,4 +51,5 @@ regulation.bin
 /sfx
 /shader
 /sound
-steam_appid.txt
+/movie_dlc
+
